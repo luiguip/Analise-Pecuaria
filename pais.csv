@@ -1,0 +1,282 @@
+,CO_PAIS,NO_PAIS
+0,0,Não Definido
+1,13,Afeganistão
+2,15,"Aland, Ilhas"
+3,17,Albânia
+4,20,"Alboran-Perejil, Ilhas"
+5,23,Alemanha
+6,25,Alemanha Oriental
+7,31,Burkina Faso
+8,37,Andorra
+9,40,Angola
+10,41,Anguilla
+11,42,Antártica
+12,43,Antígua e Barbuda
+13,47,Antilhas Holandesas
+14,53,Arábia Saudita
+15,59,Argélia
+16,63,Argentina
+17,64,Armênia
+18,65,Aruba
+19,69,Austrália
+20,72,Áustria
+21,73,Azerbaijão
+22,77,Bahamas
+23,80,Barein
+24,81,Bangladesh
+25,83,Barbados
+26,85,Belarus
+27,87,Bélgica
+28,88,Belize
+29,90,Bermudas
+30,93,Mianmar
+31,97,Bolívia
+32,98,Bósnia-Herzegovina
+33,99,"Bonaire, Saint Eustatius e Saba"
+34,100,Internação na Zona Franca de Manaus
+35,101,Botsuana
+36,102,"Bouvet, Ilha"
+37,105,Brasil
+38,108,Brunei
+39,111,Bulgária
+40,115,Burundi
+41,119,Butão
+42,127,Cabo Verde
+43,137,"Cayman, Ilhas"
+44,141,Camboja
+45,145,Camarões
+46,149,Canadá
+47,150,"Canal, Ilhas do (Guernsey)"
+48,151,"Canárias, Ilhas"
+49,152,"Canal, Ilhas do (Jersey)"
+50,153,Cazaquistão
+51,154,Catar
+52,158,Chile
+53,160,China
+54,161,Taiwan (Formosa)
+55,163,Chipre
+56,165,"Cocos (Keeling), Ilhas"
+57,169,Colômbia
+58,173,Comores
+59,177,Congo
+60,183,"Cook, Ilhas"
+61,187,Coreia do Norte
+62,190,Coreia do Sul
+63,193,Costa do Marfim
+64,195,Croácia
+65,196,Costa Rica
+66,198,Coveite (Kuweit)
+67,199,Cuba
+68,200,Curaçao
+69,229,Benin
+70,232,Dinamarca
+71,235,Dominica
+72,237,Dubai
+73,239,Equador
+74,240,Egito
+75,243,Eritreia
+76,244,Emirados Árabes Unidos
+77,245,Espanha
+78,246,Eslovênia
+79,247,Eslováquia
+80,249,Estados Unidos
+81,251,Estônia
+82,253,Etiópia
+83,255,Falkland (Malvinas)
+84,259,"Faroe, Ilhas"
+85,267,Filipinas
+86,271,Finlândia
+87,275,França
+88,281,Gabão
+89,285,Gâmbia
+90,289,Gana
+91,291,Geórgia
+92,292,"Geórgia do Sul e Sandwich do Sul, Ilhas"
+93,293,Gibraltar
+94,297,Granada
+95,301,Grécia
+96,305,Groenlândia
+97,309,Guadalupe
+98,313,Guam
+99,317,Guatemala
+100,321,Guernsey
+101,325,Guiana Francesa
+102,329,Guiné
+103,331,Guiné Equatorial
+104,334,Guiné-Bissau
+105,337,Guiana
+106,341,Haiti
+107,343,"Heard e ilhas mcdonald, Ilha"
+108,345,Honduras
+109,351,Hong Kong
+110,355,Hungria
+111,357,Iêmen
+112,358,Iêmen Democrático
+113,359,Ilha de Man
+114,361,Índia
+115,365,Indonésia
+116,367,Inglaterra
+117,369,Iraque
+118,372,Irã
+119,375,Irlanda
+120,379,Islândia
+121,383,Israel
+122,386,Itália
+123,388,Iugoslávia
+124,391,Jamaica
+125,393,Jersey
+126,396,"Johnston, Ilhas"
+127,399,Japão
+128,403,Jordânia
+129,411,Kiribati
+130,420,Laos
+131,423,"Lebuan, Ilhas"
+132,426,Lesoto
+133,427,Letônia
+134,431,Líbano
+135,434,Libéria
+136,438,Líbia
+137,440,Liechtenstein
+138,442,Lituânia
+139,445,Luxemburgo
+140,447,Macau
+141,449,Macedônia
+142,450,Madagascar
+143,452,"Madeira, Ilha da"
+144,455,Malásia
+145,458,Malavi
+146,461,Maldivas
+147,464,Mali
+148,467,Malta
+149,472,"Marianas do Norte, Ilhas"
+150,474,Marrocos
+151,476,"Marshall, Ilhas"
+152,477,Martinica
+153,485,Maurício
+154,488,Mauritânia
+155,489,Mayotte
+156,490,"Midway, Ilhas"
+157,493,México
+158,494,Moldávia
+159,495,Mônaco
+160,497,Mongólia
+161,498,Montenegro
+162,499,Micronésia
+163,501,Montserrat
+164,505,Moçambique
+165,507,Namíbia
+166,508,Nauru
+167,511,"Christmas (Navidad), Ilha"
+168,517,Nepal
+169,521,Nicarágua
+170,525,Níger
+171,528,Nigéria
+172,531,Niue
+173,535,"Norfolk, Ilha"
+174,538,Noruega
+175,542,Nova Caledônia
+176,545,Papua Nova Guiné
+177,548,Nova Zelândia
+178,551,Vanuatu
+179,556,Omã
+180,563,"Pacífico, Ilhas do (Administração dos EUA)"
+181,566,"Pacífico, Ilhas do (EUA)"
+182,569,"Pacífico, Ilhas do (Território Fideicomisso EUA)"
+183,573,Países Baixos (Holanda)
+184,575,Palau
+185,576,Paquistão
+186,578,Palestina
+187,580,Panamá
+188,583,"Papua, Território de"
+189,586,Paraguai
+190,589,Peru
+191,593,Pitcairn
+192,599,Polinésia Francesa
+193,603,Polônia
+194,607,Portugal
+195,611,Porto Rico
+196,623,Quênia
+197,625,Quirguistão
+198,628,Reino Unido
+199,640,República Centro-Africana
+200,647,República Dominicana
+201,660,Reunião
+202,665,Zimbábue
+203,670,Romênia
+204,675,Ruanda
+205,676,Rússia
+206,677,"Salomão, Ilhas"
+207,678,Saint Kitts e Nevis
+208,685,Saara Ocidental
+209,687,El Salvador
+210,690,Samoa
+211,691,Samoa Americana
+212,693,São Bartolomeu
+213,695,São Cristóvão e Névis
+214,697,San Marino
+215,698,"São Martinho, Ilha de (parte francesa)"
+216,699,Sint Maarten
+217,700,São Pedro e Miquelon
+218,705,São Vicente e Granadinas
+219,710,Santa Helena
+220,715,Santa Lúcia
+221,720,São Tomé e Príncipe
+222,728,Senegal
+223,731,Seicheles
+224,735,Serra Leoa
+225,737,Sérvia
+226,741,Cingapura
+227,744,Síria
+228,748,Somália
+229,750,Sri Lanka
+230,754,Suazilândia
+231,755,Svalbard e Jan Mayen
+232,756,África do Sul
+233,759,Sudão
+234,760,Sudão do Sul
+235,764,Suécia
+236,767,Suíça
+237,770,Suriname
+238,772,Tadjiquistão
+239,776,Tailândia
+240,780,Tanzânia
+241,781,Terras Austrais Francesas
+242,782,Território Britânico do Oceano Índico
+243,783,Djibuti
+244,785,Território da Alta Comissão do Pacífico Ocidental
+245,786,Território Antártico Britânico
+246,788,Chade
+247,790,Tchecoslováquia
+248,791,"Tcheca, República"
+249,795,Timor Leste
+250,800,Togo
+251,805,Toquelau
+252,810,Tonga
+253,815,Trinidad e Tobago
+254,820,Tunísia
+255,823,"Turcas e Caicos, Ilhas"
+256,824,Turcomenistão
+257,827,Turquia
+258,828,Tuvalu
+259,831,Ucrânia
+260,833,Uganda
+261,840,União das Repúblicas Socialistas Soviéticas
+262,845,Uruguai
+263,847,Uzbequistão
+264,848,Vaticano
+265,850,Venezuela
+266,858,Vietnã
+267,863,"Virgens, Ilhas (Britânicas)"
+268,866,"Virgens, Ilhas (Americanas)"
+269,870,Fiji
+270,873,"Wake, Ilha"
+271,875,"Wallis e Futuna, Ilhas"
+272,888,"Congo, República Democrática"
+273,890,Zâmbia
+274,895,Zona do Canal do Panamá
+275,990,Provisão de Navios e Aeronaves
+276,994,A Designar
+277,995,Bancos Centrais
+278,997,Organizações Internacionais
+279,998,Sem informação
+280,999,Não Declarados

@@ -1,0 +1,6 @@
+,cod_secao,nm_secao,cod_divisao,nm_divisao,cod_grupo,nm_grupo,cod_classe,nm_classe,cod_cnae,nm_cnae
+1,A,AGRICULTURA PECUÁRIA PRODUÇÃO FLORESTAL PESCA E AQUICULTURA,01,AGRICULTURA PECUÁRIA E SERVIÇOS RELACIONADOS,01.1,Produção de lavouras temporárias,01.11-3,Cultivo de cereais,0111302,Cultivo de milho
+9,A,AGRICULTURA PECUÁRIA PRODUÇÃO FLORESTAL PESCA E AQUICULTURA,01,AGRICULTURA PECUÁRIA E SERVIÇOS RELACIONADOS,01.1,Produção de lavouras temporárias,01.15-6,Cultivo de soja,0115600,Cultivo de soja
+700,G,COMÉRCIO REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS,46,COMÉRCIO POR ATACADO EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS,46.2,Comércio atacadista de matérias-primas agrícolas e animais vivos,46.22-2,Comércio atacadista de soja,4622200,Comércio atacadista de soja
+53,A,AGRICULTURA PECUÁRIA PRODUÇÃO FLORESTAL PESCA E AQUICULTURA,01,AGRICULTURA PECUÁRIA E SERVIÇOS RELACIONADOS,01.5,Pecuária,01.51-2,Criação de bovinos,0151201,Criação de bovinos para corte
+167,C,INDÚSTRIAS DE TRANSFORMAÇÃO,10,FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS,10.1,Abate e fabricação de produtos de carne,10.11-2,Abate de reses exceto suínos,1011201,Frigorífico - abate de bovinos
